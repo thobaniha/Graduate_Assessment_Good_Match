@@ -1,0 +1,6 @@
+c:\users\siyephu\documents\visual studio 2015\Projects\Graduate_Assessment_Good_Match\Graduate_Assessment_Good_Match\bin\Debug\Graduate_Assessment_Good_Match.exe.config
+c:\users\siyephu\documents\visual studio 2015\Projects\Graduate_Assessment_Good_Match\Graduate_Assessment_Good_Match\bin\Debug\Graduate_Assessment_Good_Match.exe
+c:\users\siyephu\documents\visual studio 2015\Projects\Graduate_Assessment_Good_Match\Graduate_Assessment_Good_Match\bin\Debug\Graduate_Assessment_Good_Match.pdb
+c:\users\siyephu\documents\visual studio 2015\Projects\Graduate_Assessment_Good_Match\Graduate_Assessment_Good_Match\obj\Debug\Graduate_Assessment_Good_Match.csprojResolveAssemblyReference.cache
+c:\users\siyephu\documents\visual studio 2015\Projects\Graduate_Assessment_Good_Match\Graduate_Assessment_Good_Match\obj\Debug\Graduate_Assessment_Good_Match.exe
+c:\users\siyephu\documents\visual studio 2015\Projects\Graduate_Assessment_Good_Match\Graduate_Assessment_Good_Match\obj\Debug\Graduate_Assessment_Good_Match.pdb
